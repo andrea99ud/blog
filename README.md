@@ -1,6 +1,6 @@
 # This is the _final_ motherfucking website.
 
-And it's _really_ more fucking perfect than the last guy's.
+è il sito di andrea ora
 
 ## Seriously, some minimal fucking things are needed to make this shit perfect.
 
